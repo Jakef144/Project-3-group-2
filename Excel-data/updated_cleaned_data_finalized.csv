@@ -1,0 +1,267 @@
+area_type,area_name,period,series_code,industry_title,base_quarter_employment_estimate,projected_quarter_employment_estimate,numeric_change,percentage_change,industry_category
+State,California,2023-2025,1,Total Employment,19920000,20412400,492400,2.5,General Employment Categories
+State,California,2023-2025,6010,Self Employment,1319000,1344000,25000,1.9,Personal and Household Services
+State,California,2023-2025,8010,Private Household Workers,35100,32600,-2500,-7.1,Personal and Household Services
+State,California,2023-2025,11000000,Total Farm,472200,469600,-2600,-0.6,Agriculture and Natural Resources
+State,California,2023-2025,0,Total Nonfarm,18093700,18566200,472500,2.6,General Employment Categories
+State,California,2023-2025,10000000,Mining and Logging,20000,20000,0,0,Agriculture and Natural Resources
+State,California,2023-2025,10113300,Logging,2200,2300,100,4.5,Agriculture and Natural Resources
+State,California,2023-2025,10210000,"Mining, Quarrying, and Oil and Gas Extraction",17800,17700,-100,-0.6,Agriculture and Natural Resources
+State,California,2023-2025,10211000,Oil and Gas Extraction,3800,3700,-100,-2.6,Utilities and Energy
+State,California,2023-2025,10212000,Mining (except Oil and Gas),5900,5900,0,0,Agriculture and Natural Resources
+State,California,2023-2025,10213000,Support Activities for Mining,8100,8100,0,0,Agriculture and Natural Resources
+State,California,2023-2025,20000000,Construction,921300,962900,41600,4.5,Construction
+State,California,2023-2025,20236000,Construction of Buildings,212800,224800,12000,5.6,Construction
+State,California,2023-2025,20236100,Residential Building Construction,124200,133000,8800,7.1,Construction
+State,California,2023-2025,20236200,Nonresidential Building Construction,88600,91800,3200,3.6,Construction
+State,California,2023-2025,20237000,Heavy and Civil Engineering Construction,97400,103500,6100,6.3,Construction
+State,California,2023-2025,20237100,Utility System Construction,50700,54500,3800,7.5,Construction
+State,California,2023-2025,20237200,Land Subdivision,5500,5600,100,1.8,Construction
+State,California,2023-2025,20237300,"Highway, Street, and Bridge Construction",29400,31100,1700,5.8,Construction
+State,California,2023-2025,20237900,Other Heavy and Civil Engineering Construction,11800,12300,500,4.2,Construction
+State,California,2023-2025,20238000,Specialty Trade Contractors,611100,634600,23500,3.8,Food and Wholesale Trade
+State,California,2023-2025,20238100,"Foundation, Structure, and Building Exterior Contractors",133800,137900,4100,3.1,Construction
+State,California,2023-2025,20238200,Building Equipment Contractors,263600,275500,11900,4.5,Construction
+State,California,2023-2025,20238300,Building Finishing Contractors,140400,143800,3400,2.4,Construction
+State,California,2023-2025,20238900,Other Specialty Trade Contractors,73300,77400,4100,5.6,Food and Wholesale Trade
+State,California,2023-2025,30000000,Manufacturing,1332800,1339900,7100,0.5,Manufacturing
+State,California,2023-2025,31000000,Durable Goods Manufacturing,864100,875400,11300,1.3,Manufacturing
+State,California,2023-2025,31321000,Wood Product Manufacturing,27100,27500,400,1.5,Manufacturing
+State,California,2023-2025,31321900,Other Wood Product Manufacturing,19400,19800,400,2.1,Manufacturing
+State,California,2023-2025,31327000,Nonmetallic Mineral Product Manufacturing,30600,31000,400,1.3,Manufacturing
+State,California,2023-2025,31331000,Primary Metal Manufacturing,15200,15100,-100,-0.7,Manufacturing
+State,California,2023-2025,31332000,Fabricated Metal Product Manufacturing,118900,117300,-1600,-1.3,Manufacturing
+State,California,2023-2025,31332300,Architectural and Structural Metals Manufacturing,31600,30800,-800,-2.5,Manufacturing
+State,California,2023-2025,31332700,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",38300,37500,-800,-2.1,Manufacturing
+State,California,2023-2025,31332900,Other Fabricated Metal Product Manufacturing,16400,16600,200,1.2,Manufacturing
+State,California,2023-2025,31333000,Machinery Manufacturing,75600,77200,1600,2.1,Manufacturing
+State,California,2023-2025,31333200,Industrial Machinery Manufacturing,23200,24400,1200,5.2,Manufacturing
+State,California,2023-2025,31333300,Commercial and Service Industry Machinery Manufacturing,10700,10500,-200,-1.9,Manufacturing
+State,California,2023-2025,31333500,Metalworking Machinery Manufacturing,10600,10600,0,0,Manufacturing
+State,California,2023-2025,31333900,Other General Purpose Machinery Manufacturing,15900,16100,200,1.3,Manufacturing
+State,California,2023-2025,31334000,Computer and Electronic Product Manufacturing,297400,298800,1400,0.5,Manufacturing
+State,California,2023-2025,31334100,Computer and Peripheral Equipment Manufacturing,86400,86800,400,0.5,Manufacturing
+State,California,2023-2025,31334200,Communications Equipment Manufacturing,16800,16700,-100,-0.6,Manufacturing
+State,California,2023-2025,31334400,Semiconductor and Other Electronic Component Manufacturing,83200,84000,800,1,Manufacturing
+State,California,2023-2025,31334500,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",100800,101700,900,0.9,Manufacturing
+State,California,2023-2025,31335000,"Electrical Equipment, Appliance, and Component Manufacturing",31300,32000,700,2.2,Manufacturing
+State,California,2023-2025,31336000,Transportation Equipment Manufacturing,150500,157300,6800,4.5,Manufacturing
+State,California,2023-2025,31336100,Motor Vehicle Manufacturing,34800,38000,3200,9.2,Manufacturing
+State,California,2023-2025,31336400,Aerospace Product and Parts Manufacturing,81300,85200,3900,4.8,Manufacturing
+State,California,2023-2025,31336600,Ship and Boat Building,9100,8900,-200,-2.2,Construction
+State,California,2023-2025,31337000,Furniture and Related Product Manufacturing,29700,29300,-400,-1.3,Manufacturing
+State,California,2023-2025,31337100,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,18100,18300,200,1.1,Manufacturing
+State,California,2023-2025,31339000,Miscellaneous Manufacturing,87800,89900,2100,2.4,Manufacturing
+State,California,2023-2025,31339100,Medical Equipment and Supplies Manufacturing,58200,59500,1300,2.2,Manufacturing
+State,California,2023-2025,31339900,Other Miscellaneous Manufacturing,29600,30400,800,2.7,Manufacturing
+State,California,2023-2025,32000000,Nondurable Goods Manufacturing,468700,464500,-4200,-0.9,Manufacturing
+State,California,2023-2025,32311000,Food Manufacturing,168100,172700,4600,2.7,Manufacturing
+State,California,2023-2025,32311400,Fruit and Vegetable Preserving and Specialty Food Manufacturing,27700,29000,1300,4.7,Manufacturing
+State,California,2023-2025,32311500,Dairy Product Manufacturing,18600,19100,500,2.7,Manufacturing
+State,California,2023-2025,32311600,Animal Slaughtering and Processing,23300,23700,400,1.7,Manufacturing
+State,California,2023-2025,32311800,Bakeries and Tortilla Manufacturing,42300,43900,1600,3.8,Manufacturing
+State,California,2023-2025,32311900,Other Food Manufacturing,38900,40100,1200,3.1,Manufacturing
+State,California,2023-2025,32312000,Beverage and Tobacco Product Manufacturing,66400,69000,2600,3.9,Manufacturing
+State,California,2023-2025,32313000,Textile Mills,5300,5100,-200,-3.8,Manufacturing
+State,California,2023-2025,32314000,Textile Product Mills,8600,8200,-400,-4.7,Manufacturing
+State,California,2023-2025,32315000,Apparel Manufacturing,28600,25000,-3600,-12.6,Manufacturing
+State,California,2023-2025,32315100,Apparel Knitting Mills,700,600,-100,-14.3,Manufacturing
+State,California,2023-2025,32315200,Cut and Sew Apparel Manufacturing,25800,22200,-3600,-14,Manufacturing
+State,California,2023-2025,32322000,Paper Manufacturing,20300,20600,300,1.5,Manufacturing
+State,California,2023-2025,32322200,Converted Paper Product Manufacturing,19300,19600,300,1.6,Manufacturing
+State,California,2023-2025,32323000,Printing and Related Support Activities,32000,29500,-2500,-7.8,Other
+State,California,2023-2025,32324000,Petroleum and Coal Products Manufacturing,10100,10500,400,4,Manufacturing
+State,California,2023-2025,32325000,Chemical Manufacturing,83200,80500,-2700,-3.2,Manufacturing
+State,California,2023-2025,32325400,Pharmaceutical and Medicine Manufacturing,47000,45300,-1700,-3.6,Manufacturing
+State,California,2023-2025,32325600,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",12900,12600,-300,-2.3,Manufacturing
+State,California,2023-2025,32326000,Plastics and Rubber Products Manufacturing,43400,40900,-2500,-5.8,Manufacturing
+State,California,2023-2025,40000000,"Trade, Transportation, and Utilities",3119100,3147000,27900,0.9,Food and Wholesale Trade
+State,California,2023-2025,41000000,Wholesale Trade,658000,660400,2400,0.4,Food and Wholesale Trade
+State,California,2023-2025,41423000,"Merchant Wholesalers, Durable Goods",344400,347100,2700,0.8,Food and Wholesale Trade
+State,California,2023-2025,41423100,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,38000,37100,-900,-2.4,Food and Wholesale Trade
+State,California,2023-2025,41423200,Furniture and Home Furnishing Merchant Wholesalers,19200,19100,-100,-0.5,Food and Wholesale Trade
+State,California,2023-2025,41423300,Lumber and Other Construction Materials Merchant Wholesalers,24300,25300,1000,4.1,Construction
+State,California,2023-2025,41423400,Professional and Commercial Equipment and Supplies Merchant Wholesalers,79700,78600,-1100,-1.4,Food and Wholesale Trade
+State,California,2023-2025,41423600,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers,43900,46700,2800,6.4,Food and Wholesale Trade
+State,California,2023-2025,41423700,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",30200,30700,500,1.7,Food and Wholesale Trade
+State,California,2023-2025,41423800,"Machinery, Equipment, and Supplies Merchant Wholesalers",55300,55800,500,0.9,Food and Wholesale Trade
+State,California,2023-2025,41424000,"Merchant Wholesalers, Nondurable Goods",270500,270200,-300,-0.1,Food and Wholesale Trade
+State,California,2023-2025,41424100,Paper and Paper Product Merchant Wholesalers,12100,11400,-700,-5.8,Food and Wholesale Trade
+State,California,2023-2025,41424300,"Apparel, Piece Goods, and Notions Merchant Wholesalers",30500,29100,-1400,-4.6,Food and Wholesale Trade
+State,California,2023-2025,41424400,Grocery and Related Product Merchant Wholesalers,106700,108300,1600,1.5,Food and Wholesale Trade
+State,California,2023-2025,41424600,Chemical and Allied Products Merchant Wholesalers,13700,13600,-100,-0.7,Food and Wholesale Trade
+State,California,2023-2025,41424900,Miscellaneous Nondurable Goods Merchant Wholesalers,42500,42200,-300,-0.7,Food and Wholesale Trade
+State,California,2023-2025,41425000,Wholesale Trade Agents and Brokers,43100,43100,0,0,Food and Wholesale Trade
+State,California,2023-2025,42000000,Retail Trade,1604500,1615500,11000,0.7,Food and Wholesale Trade
+State,California,2023-2025,42441000,Motor Vehicle and Parts Dealers,194400,197900,3500,1.8,Food and Wholesale Trade
+State,California,2023-2025,42441100,Automobile Dealers,124200,127300,3100,2.5,Food and Wholesale Trade
+State,California,2023-2025,42441200,Other Motor Vehicle Dealers,12900,12400,-500,-3.9,Food and Wholesale Trade
+State,California,2023-2025,42441300,"Automotive Parts, Accessories, and Tire Retailers",57300,58200,900,1.6,Food and Wholesale Trade
+State,California,2023-2025,42444000,Building Material and Garden Equipment and Supplies Dealers,131500,127700,-3800,-2.9,Construction
+State,California,2023-2025,42444100,Building Material and Supplies Dealers,119700,116300,-3400,-2.8,Construction
+State,California,2023-2025,42445000,Food and Beverage Retailers,376900,381700,4800,1.3,Food and Wholesale Trade
+State,California,2023-2025,42445100,Grocery and Convenience Retailers,330800,335100,4300,1.3,Food and Wholesale Trade
+State,California,2023-2025,42445200,Specialty Food Retailers,28200,28600,400,1.4,Food and Wholesale Trade
+State,California,2023-2025,42445300,"Beer, Wine, and Liquor Retailers",17900,18000,100,0.6,Food and Wholesale Trade
+State,California,2023-2025,42449000,"Furniture, Home Furnishings, Electronics, and Appliance Retailers",99900,98100,-1800,-1.8,Food and Wholesale Trade
+State,California,2023-2025,42449100,Furniture and Home Furnishings Retailers,48700,47700,-1000,-2.1,Food and Wholesale Trade
+State,California,2023-2025,42449200,Electronics and Appliance Retailers,51200,50400,-800,-1.6,Food and Wholesale Trade
+State,California,2023-2025,42455000,General Merchandise Retailers,303200,309600,6400,2.1,Food and Wholesale Trade
+State,California,2023-2025,42455100,Department Stores,99800,98700,-1100,-1.1,Other
+State,California,2023-2025,42455200,"Warehouse Clubs, Supercenters, and Other General Merchandise Retailers",203400,210900,7500,3.7,Food and Wholesale Trade
+State,California,2023-2025,42456000,Health and Personal Care Retailers,113500,114000,500,0.4,Food and Wholesale Trade
+State,California,2023-2025,42457000,Gasoline Stations and Fuel Dealers,68600,70100,1500,2.2,Food and Wholesale Trade
+State,California,2023-2025,42458000,"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",150800,148600,-2200,-1.5,Food and Wholesale Trade
+State,California,2023-2025,42458100,Clothing and Clothing Accessories Retailers,110000,106200,-3800,-3.5,Food and Wholesale Trade
+State,California,2023-2025,42458300,"Jewelry, Luggage, and Leather Goods Retailers",14700,15600,900,6.1,Food and Wholesale Trade
+State,California,2023-2025,42459000,"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",165700,167800,2100,1.3,Food and Wholesale Trade
+State,California,2023-2025,42459100,"Sporting Goods, Hobby, and Musical Instrument Retailers",51800,52600,800,1.5,Food and Wholesale Trade
+State,California,2023-2025,42459200,Book Retailers and News Dealers,11500,11200,-300,-2.6,Food and Wholesale Trade
+State,California,2023-2025,42459400,"Office Supplies, Stationery, and Gift Retailers",25100,26100,1000,4,Food and Wholesale Trade
+State,California,2023-2025,42459500,Used Merchandise Retailers,20100,20700,600,3,Food and Wholesale Trade
+State,California,2023-2025,42459900,Other Miscellaneous Retailers,51500,51900,400,0.8,Food and Wholesale Trade
+State,California,2023-2025,43000000,"Transportation, Warehousing, and Utilities",856600,871100,14500,1.7,Transportation and Logistics
+State,California,2023-2025,43220000,Utilities,63600,66400,2800,4.4,Other
+State,California,2023-2025,43221100,"Electric Power Generation, Transmission and Distribution",20200,22000,1800,8.9,Utilities and Energy
+State,California,2023-2025,43221200,Natural Gas Distribution,37800,38800,1000,2.6,Utilities and Energy
+State,California,2023-2025,43400089,Transportation and Warehousing,793000,804700,11700,1.5,Transportation and Logistics
+State,California,2023-2025,43481000,Air Transportation,57400,57900,500,0.9,Transportation and Logistics
+State,California,2023-2025,43481100,Scheduled Air Transportation,50400,51000,600,1.2,Transportation and Logistics
+State,California,2023-2025,43484000,Truck Transportation,150200,154500,4300,2.9,Transportation and Logistics
+State,California,2023-2025,43484100,General Freight Trucking,107900,112400,4500,4.2,Transportation and Logistics
+State,California,2023-2025,43484200,Specialized Freight Trucking,42300,42100,-200,-0.5,Transportation and Logistics
+State,California,2023-2025,43485000,Transit and Ground Passenger Transportation,51400,52100,700,1.4,Transportation and Logistics
+State,California,2023-2025,43488000,Support Activities for Transportation,121900,124800,2900,2.4,Transportation and Logistics
+State,California,2023-2025,43488300,Support Activities for Water Transportation,24200,25200,1000,4.1,Transportation and Logistics
+State,California,2023-2025,43488400,Support Activities for Road Transportation,18700,19100,400,2.1,Transportation and Logistics
+State,California,2023-2025,43488500,Freight Transportation Arrangement,36900,36100,-800,-2.2,Transportation and Logistics
+State,California,2023-2025,43492000,Couriers and Messengers,135400,137000,1600,1.2,Information and Media
+State,California,2023-2025,43493000,Warehousing and Storage,258200,260000,1800,0.7,Other
+State,California,2023-2025,50000000,Information,593800,601600,7800,1.3,Information and Media
+State,California,2023-2025,50512000,Motion Picture and Sound Recording Industries,159200,166400,7200,4.5,Information and Media
+State,California,2023-2025,50512100,Motion Picture and Video Industries,154000,161000,7000,4.5,Information and Media
+State,California,2023-2025,50513000,Publishing Industries,140700,136900,-3800,-2.7,Other
+State,California,2023-2025,50513100,"Newspaper, Periodical, Book, and Directory Publishers",26000,25200,-800,-3.1,Other
+State,California,2023-2025,50513200,Software Publishers,114700,111700,-3000,-2.6,Other
+State,California,2023-2025,50516000,Broadcasting and Content Providers,91700,94900,3200,3.5,Information and Media
+State,California,2023-2025,50516100,Radio and Television Broadcasting Stations,12200,12100,-100,-0.8,Information and Media
+State,California,2023-2025,50516200,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",79500,82800,3300,4.2,Information and Media
+State,California,2023-2025,50517000,Telecommunications,56700,54900,-1800,-3.2,Other
+State,California,2023-2025,50518000,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",74600,80400,5800,7.8,Manufacturing
+State,California,2023-2025,50519000,"Web Search Portals, Libraries, Archives, and Other Information Services",70900,68100,-2800,-3.9,Information and Media
+State,California,2023-2025,55000000,Financial Activities,848500,851300,2800,0.3,Financial Services
+State,California,2023-2025,55520000,Finance and Insurance,540700,533600,-7100,-1.3,Financial Services
+State,California,2023-2025,55522000,Credit Intermediation and Related Activities,234000,224900,-9100,-3.9,Financial Services
+State,California,2023-2025,55522100,Depository Credit Intermediation,136200,131100,-5100,-3.7,Financial Services
+State,California,2023-2025,55522200,Nondepository Credit Intermediation,53100,50000,-3100,-5.8,Financial Services
+State,California,2023-2025,55522300,Activities Related to Credit Intermediation,44700,43800,-900,-2,Financial Services
+State,California,2023-2025,55523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities",103600,106000,2400,2.3,Financial Services
+State,California,2023-2025,55523100,Securities and Commodity Contracts Intermediation and Brokerage,31800,32300,500,1.6,Financial Services
+State,California,2023-2025,55523900,Other Financial Investment Activities,71500,73400,1900,2.7,Financial Services
+State,California,2023-2025,55524000,Insurance Carriers and Related Activities,203100,202700,-400,-0.2,Financial Services
+State,California,2023-2025,55524100,Insurance Carriers,86400,86000,-400,-0.5,Financial Services
+State,California,2023-2025,55524200,"Agencies, Brokerages, and Other Insurance Related Activities",116700,116700,0,0,Financial Services
+State,California,2023-2025,55530000,Real Estate and Rental and Leasing,307800,317700,9900,3.2,Financial Services
+State,California,2023-2025,55531000,Real Estate,238900,244700,5800,2.4,Financial Services
+State,California,2023-2025,55531100,Lessors of Real Estate,64200,65600,1400,2.2,Financial Services
+State,California,2023-2025,55531200,Offices of Real Estate Agents and Brokers,58500,60200,1700,2.9,Financial Services
+State,California,2023-2025,55531300,Activities Related to Real Estate,116200,118900,2700,2.3,Financial Services
+State,California,2023-2025,55532000,Rental and Leasing Services,66400,70400,4000,6,Financial Services
+State,California,2023-2025,55532100,Automotive Equipment Rental and Leasing Equipment,24000,25800,1800,7.5,Other
+State,California,2023-2025,55532200,Consumer Goods Rental,15400,16400,1000,6.5,Other
+State,California,2023-2025,55532300,General Rental Centers,3100,3300,200,6.5,Other
+State,California,2023-2025,55532400,Commercial and Industrial Machinery and Equipment Rental and Leasing,23900,24900,1000,4.2,Other
+State,California,2023-2025,60000000,Professional and Business Services,2900100,2943100,43000,1.5,Other
+State,California,2023-2025,60540000,"Professional, Scientific, and Technical Services",1466500,1510200,43700,3,Other
+State,California,2023-2025,60541100,Legal Services,150100,152800,2700,1.8,Other
+State,California,2023-2025,60541200,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",154400,163000,8600,5.6,Financial Services
+State,California,2023-2025,60541300,"Architectural, Engineering, and Related Services",201500,212600,11100,5.5,Other
+State,California,2023-2025,60541400,Specialized Design Services,29600,31000,1400,4.7,Financial Services
+State,California,2023-2025,60541500,Computer Systems Design and Related Services,352100,359000,6900,2,Other
+State,California,2023-2025,60541600,"Management, Scientific, and Technical Consulting Services",231900,236200,4300,1.9,Other
+State,California,2023-2025,60541700,Scientific Research and Development Services,194900,200800,5900,3,Other
+State,California,2023-2025,60541800,"Advertising, Public Relations, and Related Services",65000,66100,1100,1.7,Other
+State,California,2023-2025,60541900,"Other Professional, Scientific, and Technical Services",87000,88700,1700,2,Other
+State,California,2023-2025,60550000,Management of Companies and Enterprises,251700,257000,5300,2.1,Other
+State,California,2023-2025,60560000,Administrative and Support and Waste Management and Remediation Services,1181900,1175900,-6000,-0.5,Other
+State,California,2023-2025,60561000,Administrative and Support Services,1124800,1116800,-8000,-0.7,Financial Services
+State,California,2023-2025,60561100,Office Administrative Services,75500,79000,3500,4.6,Financial Services
+State,California,2023-2025,60561200,Facilities Support Services,17800,19100,1300,7.3,Financial Services
+State,California,2023-2025,60561300,Employment Services,490600,464000,-26600,-5.4,Financial Services
+State,California,2023-2025,60561400,Business Support Services,47300,46000,-1300,-2.7,Financial Services
+State,California,2023-2025,60561500,Travel Arrangement and Reservation Services,20800,19700,-1100,-5.3,Financial Services
+State,California,2023-2025,60561600,Investigation and Security Services,167000,173500,6500,3.9,Other
+State,California,2023-2025,60561700,Services to Buildings and Dwellings,270900,280300,9400,3.5,Construction
+State,California,2023-2025,60561900,Other Support Services,34900,35200,300,0.9,Other
+State,California,2023-2025,60562000,Waste Management and Remediation Services,57100,59100,2000,3.5,Other
+State,California,2023-2025,65000000,"Educational Services (Private), Health Care, and Social Assistance",3091600,3280000,188400,6.1,Education and Health Services
+State,California,2023-2025,65610000,Private Educational Services,409500,423500,14000,3.4,Education and Health Services
+State,California,2023-2025,65611100,Private Elementary and Secondary Schools,105400,108600,3200,3,Education and Health Services
+State,California,2023-2025,65611200,Private Junior Colleges,2600,2700,100,3.8,Education and Health Services
+State,California,2023-2025,65611300,"Private Colleges, Universities, and Professional Schools",164400,169600,5200,3.2,Education and Health Services
+State,California,2023-2025,65611600,Other Private School and Instruction,89100,93000,3900,4.4,Education and Health Services
+State,California,2023-2025,65620000,Health Care and Social Assistance,2682100,2856500,174400,6.5,Education and Health Services
+State,California,2023-2025,65621000,Ambulatory Health Care Services,970800,1019800,49000,5,Education and Health Services
+State,California,2023-2025,65621100,Offices of Physicians,263000,278300,15300,5.8,Education and Health Services
+State,California,2023-2025,65621200,Offices of Dentists,138200,139300,1100,0.8,Education and Health Services
+State,California,2023-2025,65621300,Offices of Other Health Practitioners,125200,129300,4100,3.3,Education and Health Services
+State,California,2023-2025,65621400,Outpatient Care Centers,251100,267000,15900,6.3,Education and Health Services
+State,California,2023-2025,65621500,Medical and Diagnostic Laboratories,45200,47700,2500,5.5,Education and Health Services
+State,California,2023-2025,65621600,Home Health Care Services,114900,123000,8100,7,Education and Health Services
+State,California,2023-2025,65621900,Other Ambulatory Health Care Services,33200,35200,2000,6,Education and Health Services
+State,California,2023-2025,65622000,Hospitals (Private),411900,424300,12400,3,Education and Health Services
+State,California,2023-2025,65622100,General Medical and Surgical Hospitals,385000,396000,11000,2.9,Education and Health Services
+State,California,2023-2025,65622200,Psychiatric and Substance Abuse Hospitals,9200,9900,700,7.6,Education and Health Services
+State,California,2023-2025,65622300,Specialty (except Psychiatric and Substance Abuse) Hospitals,17700,18400,700,4,Education and Health Services
+State,California,2023-2025,65623000,Nursing and Residential Care Facilities,308400,327200,18800,6.1,Education and Health Services
+State,California,2023-2025,65623100,Nursing Care Facilities (Skilled Nursing Facilities),137400,147000,9600,7,Education and Health Services
+State,California,2023-2025,65623200,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",61900,64200,2300,3.7,Education and Health Services
+State,California,2023-2025,65623300,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,97700,104700,7000,7.2,Education and Health Services
+State,California,2023-2025,65623900,Other Residential Care Facilities,11400,11300,-100,-0.9,Education and Health Services
+State,California,2023-2025,65624000,Social Assistance,991000,1085200,94200,9.5,Education and Health Services
+State,California,2023-2025,65624100,Individual and Family Services,848600,937600,89000,10.5,Other
+State,California,2023-2025,65624200,"Community Food and Housing, and Emergency and Other Relief Services",29700,31800,2100,7.1,Other
+State,California,2023-2025,65624300,Vocational Rehabilitation Services,33900,34800,900,2.7,Other
+State,California,2023-2025,65624400,Child Day Care Services,78800,81000,2200,2.8,Education and Health Services
+State,California,2023-2025,70000000,Leisure and Hospitality,2057500,2154300,96800,4.7,Education and Health Services
+State,California,2023-2025,70710000,"Arts, Entertainment, and Recreation",350300,372600,22300,6.4,"Arts, Entertainment, and Recreation"
+State,California,2023-2025,70711000,"Performing Arts, Spectator Sports, and Related Industries",102700,106300,3600,3.5,"Arts, Entertainment, and Recreation"
+State,California,2023-2025,70711100,Performing Arts Companies,20800,21000,200,1,"Arts, Entertainment, and Recreation"
+State,California,2023-2025,70711200,Spectator Sports,20300,20800,500,2.5,"Arts, Entertainment, and Recreation"
+State,California,2023-2025,70711500,"Independent Artists, Writers, and Performers",21100,21900,800,3.8,"Arts, Entertainment, and Recreation"
+State,California,2023-2025,70712000,"Museums, Historical Sites, and Similar Institutions",20600,21700,1100,5.3,"Arts, Entertainment, and Recreation"
+State,California,2023-2025,70713000,"Amusement, Gambling, and Recreation Industries",227000,244600,17600,7.8,"Arts, Entertainment, and Recreation"
+State,California,2023-2025,70713100,Amusement Parks and Arcades,55500,58000,2500,4.5,"Arts, Entertainment, and Recreation"
+State,California,2023-2025,70713200,Gambling Industries,17000,17600,600,3.5,"Arts, Entertainment, and Recreation"
+State,California,2023-2025,70713900,Other Amusement and Recreation Industries,154500,169000,14500,9.4,"Arts, Entertainment, and Recreation"
+State,California,2023-2025,70720000,Accommodation and Food Services,1707200,1781700,74500,4.4,Leisure and Hospitality
+State,California,2023-2025,70721000,Accommodation,213200,225000,11800,5.5,Leisure and Hospitality
+State,California,2023-2025,70722000,Food Services and Drinking Places,1494000,1556700,62700,4.2,Leisure and Hospitality
+State,California,2023-2025,70722511,Full-Service Restaurants,633300,652800,19500,3.1,Leisure and Hospitality
+State,California,2023-2025,70722590,Limited-Service Restaurants and Other Eating Places,745200,776700,31500,4.2,Leisure and Hospitality
+State,California,2023-2025,70722300,Special Food Services,80700,90000,9300,11.5,Leisure and Hospitality
+State,California,2023-2025,70722400,Drinking Places (Alcoholic Beverages),34800,37200,2400,6.9,Leisure and Hospitality
+State,California,2023-2025,80000000,Other Services (excludes 814-Private Household Workers),587300,609000,21700,3.7,Personal and Household Services
+State,California,2023-2025,80811000,Repair and Maintenance,162800,167700,4900,3,Transportation and Logistics
+State,California,2023-2025,80811100,Automotive Repair and Maintenance,125800,130700,4900,3.9,Transportation and Logistics
+State,California,2023-2025,80811300,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,17700,17800,100,0.6,Other
+State,California,2023-2025,80811400,Personal and Household Goods Repair and Maintenance,10000,10200,200,2,Other
+State,California,2023-2025,80812000,Personal and Laundry Services,196700,204000,7300,3.7,Other
+State,California,2023-2025,80812100,Personal Care Services,99200,103000,3800,3.8,Other
+State,California,2023-2025,80812300,Drycleaning and Laundry Services,30800,31400,600,1.9,Other
+State,California,2023-2025,80812900,Other Personal Services,54400,57000,2600,4.8,Other
+State,California,2023-2025,80813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",227800,237300,9500,4.2,Other
+State,California,2023-2025,80813100,Religious Organizations,88700,91400,2700,3,Other
+State,California,2023-2025,80813200,Grantmaking and Giving Services,28200,27200,-1000,-3.5,Other
+State,California,2023-2025,80813300,Social Advocacy Organizations,34100,38000,3900,11.4,Other
+State,California,2023-2025,80813400,Civic and Social Organizations,39200,42200,3000,7.7,Other
+State,California,2023-2025,80813900,"Business, Professional, Labor, Political, and Similar Organizations",37600,38500,900,2.4,Other
+State,California,2023-2025,90000000,Government,2621700,2657100,35400,1.4,Other
+State,California,2023-2025,90910000,Federal Government,248400,250500,2100,0.8,Other
+State,California,2023-2025,90940000,State and Local Government,2373300,2406600,33300,1.4,Other
+State,California,2023-2025,90920000,State Government,561200,569800,8600,1.5,Other
+State,California,2023-2025,90921611,State Government Education,262100,264700,2600,1,Education and Health Services
+State,California,2023-2025,90922000,State Government Excluding Education,299100,305100,6000,2,Education and Health Services
+State,California,2023-2025,90930000,Local Government,1812100,1836800,24700,1.4,Other
+State,California,2023-2025,90931611,Local Government Education,993800,1007600,13800,1.4,Education and Health Services
+State,California,2023-2025,90932000,Local Government Excluding Education,818300,829200,10900,1.3,Education and Health Services

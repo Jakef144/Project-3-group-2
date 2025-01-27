@@ -1,0 +1,93 @@
+[
+    {
+        "industry_category":"Agriculture and Natural Resources",
+        "base_quarter_employment_estimate":87700.0,
+        "projected_quarter_employment_estimate":87266.67,
+        "numeric_change":-433.33,
+        "percentage_change":0.55
+    },
+    {
+        "industry_category":"Arts, Entertainment, and Recreation",
+        "base_quarter_employment_estimate":98980.0,
+        "projected_quarter_employment_estimate":105350.0,
+        "numeric_change":6370.0,
+        "percentage_change":4.77
+    },
+    {
+        "industry_category":"Construction",
+        "base_quarter_employment_estimate":155000.0,
+        "projected_quarter_employment_estimate":160894.12,
+        "numeric_change":5894.12,
+        "percentage_change":3.3
+    },
+    {
+        "industry_category":"Education and Health Services",
+        "base_quarter_employment_estimate":497661.29,
+        "projected_quarter_employment_estimate":522696.77,
+        "numeric_change":25035.48,
+        "percentage_change":4.3
+    },
+    {
+        "industry_category":"Financial Services",
+        "base_quarter_employment_estimate":203196.15,
+        "projected_quarter_employment_estimate":202611.54,
+        "numeric_change":-584.62,
+        "percentage_change":0.64
+    },
+    {
+        "industry_category":"Food and Wholesale Trade",
+        "base_quarter_employment_estimate":228560.47,
+        "projected_quarter_employment_estimate":230897.67,
+        "numeric_change":2337.21,
+        "percentage_change":0.58
+    },
+    {
+        "industry_category":"Information and Media",
+        "base_quarter_employment_estimate":162087.5,
+        "projected_quarter_employment_estimate":165487.5,
+        "numeric_change":3400.0,
+        "percentage_change":1.81
+    },
+    {
+        "industry_category":"Leisure and Hospitality",
+        "base_quarter_employment_estimate":701200.0,
+        "projected_quarter_employment_estimate":731442.86,
+        "numeric_change":30242.86,
+        "percentage_change":5.69
+    },
+    {
+        "industry_category":"Manufacturing",
+        "base_quarter_employment_estimate":99402.0,
+        "projected_quarter_employment_estimate":100222.0,
+        "numeric_change":820.0,
+        "percentage_change":0.21
+    },
+    {
+        "industry_category":"Other",
+        "base_quarter_employment_estimate":382458.7,
+        "projected_quarter_employment_estimate":390150.0,
+        "numeric_change":7691.3,
+        "percentage_change":2.4
+    },
+    {
+        "industry_category":"Personal and Household Services",
+        "base_quarter_employment_estimate":647133.33,
+        "projected_quarter_employment_estimate":661866.67,
+        "numeric_change":14733.33,
+        "percentage_change":-0.5
+    },
+    {
+        "industry_category":"Transportation and Logistics",
+        "base_quarter_employment_estimate":185678.57,
+        "projected_quarter_employment_estimate":189242.86,
+        "numeric_change":3564.29,
+        "percentage_change":1.9
+    },
+    {
+        "industry_category":"Utilities and Energy",
+        "base_quarter_employment_estimate":20600.0,
+        "projected_quarter_employment_estimate":21500.0,
+        "numeric_change":900.0,
+        "percentage_change":2.97
+    }
+]
