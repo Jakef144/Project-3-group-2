@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>California Wages</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+        /* Style the chart container */
+        #chart {
+            max-width: 100%;
+            height: 700px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Dropdown for Year -->
+    <select id="yearDropdown" onchange="updateChart()">
+        <option value="">Select Year</option>
+    </select>
+
+    <!-- Dropdown for Area_Name -->
+    <select id="areaDropdown" onchange="updateChart()">
+        <option value="">Select Area</option>
+    </select>
+
+    <!-- Container for Plotly chart -->
+    <div id="chart"></div>
+
+    <!-- Link to external JavaScript file -->
+    <script src="script.js"></script>
+
+</body>
+</html>
