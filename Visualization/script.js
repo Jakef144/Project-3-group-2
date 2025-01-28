@@ -15,6 +15,9 @@ const svg = d3.select("body")
 
 // Load the data from the JSON file
 d3.json(dataUrl).then(data => {
+    // Sort data by the highest 2025 Projected Employment
+    data.sort((a, b) => b.projected_quarter_employment_estimate - a.projected_quarter_employment_estimate);
+
     // Prepare the data for grouped bars
     const metrics = [
         "2023 Employment",
