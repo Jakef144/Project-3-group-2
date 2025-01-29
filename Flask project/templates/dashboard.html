@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Merged Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/stylej.css') }}">
+    <!-- Load JavaScript files -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .chart-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .chart {
+            margin: 20px;
+        }
+        .tooltip {
+            position: absolute;
+            background: #fff;
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 3px;
+            pointer-events: none;
+            opacity: 0.9;
+        }
+        .legend rect {
+            stroke: black;
+            stroke-width: 1px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">California Employment Visualization Dashboard</h1>
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link active" id="tab-1-link" href="#tab-1" data-bs-toggle="tab">Short term</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab-2-link" href="#tab-2" data-bs-toggle="tab">California Wages</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="tab-3-link" href="#tab-3" data-bs-toggle="tab">Occupations Dashboard</a>
+            </li>
+        </ul>
+        
+        <div class="tab-content mt-4">
+            <!-- Short term -->
+            <div class="tab-pane fade show active" id="tab-1">
+                <h2>Short term employment 2023-2025</h2>
+                <img src="/static/gerber.jpg" class="gerber-image">
+                <div id="visualization1" class="chart"></div>  <!-- ✅ Bar chart will render here -->
+            </div>
+
+            <!-- Visualization 2 (California Wages) -->
+            <div class="tab-pane fade" id="tab-2">
+                <h2>California Wages</h2>
+                <select id="yearDropdown" onchange="updateChart()">
+                    <option value="">Select Year</option>
+                </select>
+                <select id="areaDropdown" onchange="updateChart()">
+                    <option value="">Select Area</option>
+                </select>
+                <div id="chart"></div>
+            </div>
+
+            <!-- Visualization 3 -->
+            <div class="tab-pane fade" id="tab-3">
+                <h2>California Employment by Occupation</h2>
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="card card-body bg-light">
+                            <h4>Occupation</h4>
+                            <select id="occupationDropdown"></select>
+                        </div>
+                        <div class="card card-primary">
+                            <div class="card-header">
+                                <h4 class="card-title">Employment Info</h4>
+                            </div>
+                            <div id="occupationInfo" class="card-body"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div id="occupationsBarChart"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <canvas id="bubbleChart" width="960" height="306"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Ensure scripts load correctly -->
+    <script src="{{ url_for('static', filename='js/scriptm.js') }}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

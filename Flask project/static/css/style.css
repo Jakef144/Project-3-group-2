@@ -1,0 +1,60 @@
+/* General body styles */
+#tab-1 {
+    background: url('/static/shortterm.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 10px;
+    color: white; /* Ensures text remains readable */
+    position: relative;
+}
+
+/* Add a slight dark overlay to improve text readability */
+#tab-1::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4); /* Adjust the opacity as needed */
+    z-index: -1;
+    border-radius: 10px;
+}
+
+/* Chart container */
+#chart, #bar-chart, #scatter-plot {
+    margin: 20px auto;
+    max-width: 1200px;
+    height: 700px;
+}
+
+/* Dropdown styles */
+select {
+    margin: 10px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+/* Tooltip styling */
+.tooltip {
+    position: absolute;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    pointer-events: none;
+    font-size: 14px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    opacity: 0.9;
+}
+
+/* Legend styling */
+.legend rect {
+    stroke: #333;
+    stroke-width: 0.5;
+}
+
+.legend text {
+    font-size: 14px;
+}
+
