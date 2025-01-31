@@ -17,5 +17,5 @@ All our data was provided publicly by the California Employment Development Depa
  - https://catalog.data.gov/dataset/short-term-industry-employment-projections
  - https://catalog.data.gov/dataset/long-term-occupational-employment-projections
 
-## Code Source
+## Code Assistants
 Xpert Learning Assistant, ChatGPT and Gemini were leveraged as coding aides when running into type errors.
