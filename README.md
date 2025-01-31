@@ -1,1 +1,3 @@
 # Project-3
+
+The purpose of this project was to analyze wages in California. We looked at wages by industry from 2020-2023, and then looked at projections for 2025 and 2030. We created interactive dropdowns that allow you to look at wages by industry, county, occupation and year. After that we created interactive barcharts and bubble graphs to look at the best projected jobs in the coming years. All our data was provided publicly by the State of California. It also does not contain any personally identifable information, and has no licensing restrictions and is intended for public access and use. We used chatgpt and xpert learning assistant to help.
