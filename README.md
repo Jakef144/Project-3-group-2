@@ -13,6 +13,6 @@ We created interactive dashboards for each data set, containing bar charts and a
 
 ## Data Sets & Ethics
 All our data was provided publicly by the California Employment Development Department (data.ca.gov). The datasets are intended for public access, with no licensing restrictions and does not contain personally identifable information.
-https://catalog.data.gov/dataset/quarterly-census-of-employment-and-wages-qcew-a6fea
-https://catalog.data.gov/dataset/short-term-industry-employment-projections
-https://catalog.data.gov/dataset/long-term-occupational-employment-projections
+ - https://catalog.data.gov/dataset/quarterly-census-of-employment-and-wages-qcew-a6fea
+ - https://catalog.data.gov/dataset/short-term-industry-employment-projections
+ - https://catalog.data.gov/dataset/long-term-occupational-employment-projections
