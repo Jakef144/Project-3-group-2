@@ -9,10 +9,13 @@ We created interactive dashboards for each data set, containing bar charts and a
  - In the Quarterly Census of Employment and Wages dashboard, there are two dropdown filters - one for year, and the other for county - to show the top industries by average weekly wages.
  - The Short-Term Industry Employment Projections dashboard double bar graph shows changes in employment by industry from 2023 and 2025, and has hoverable and clickable tooltips that display information on the chart and an info table to the right.
  - In the Long-Term Occupation Employment Projections dashboard, the Occupation dropdown filters the Employment Info table below, and the bar charts to the right that show base and projected employment for each. The bubble chart below shows each occupation's median hourly wage when the user hovers over each bubble.
- - Each dashboard is easy to navigate to, with clickable tabs at the top of the Flask API.
+ - Each dashboard is easy to navigate to, with clickable tabs at the top of the Flask API. To run Flask, open the Flask folder under gitbash and run the command "app.py" Flask will open in a new broswer.
 
 ## Data Sets & Ethics
 All our data was provided publicly by the California Employment Development Department (data.ca.gov). The datasets are intended for public access, with no licensing restrictions and does not contain personally identifable information.
  - https://catalog.data.gov/dataset/quarterly-census-of-employment-and-wages-qcew-a6fea
  - https://catalog.data.gov/dataset/short-term-industry-employment-projections
  - https://catalog.data.gov/dataset/long-term-occupational-employment-projections
+
+## Code Source
+Xpert Learning Assistant, ChatGPT and Gemini were leveraged as coding aides when running into type errors.
