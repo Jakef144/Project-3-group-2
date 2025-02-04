@@ -1,4 +1,4 @@
-# Project-3: Visualization
+# Project-3: California Employment Visualizations
 
 ## Overview
 The purpose of this project was to analyze employment trends in California by industry and occupation from 2020-2030. Our data sets included a Quarterly Census of Employment and Wages (2020-2022), Short-Term Industry Employment Projections (2023-2025) and Long-Term Occupational Employment Projections (2020-2030).
